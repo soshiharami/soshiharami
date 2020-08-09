@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My portfolio soshiharami.xyz
+### My portfolio http://oshiharami.xyz
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=soshiharami&theme=synthwave&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=soshiharami&theme=synthwave&show_icons=true)
