@@ -2,10 +2,14 @@
 
 ### [My portfolio](https://soshiharami.xyz)
 
-### Languages and Tools:
+### Languages, Tools and Skills:
 
 <img align="left" alt="vim Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
+<img align="left" alt="Scalajs" width="26px" src="https://www.scala-js.org/assets/img/scala-js-logo.svg" />
+<img align="left" alt="sbt" width="26px" src="https://www.scala-sbt.org/assets/sbt-logo.svg" />
+<img align="left" alt="sbt" width="26px" src="https://www.playframework.com/assets/images/logos/9382fa0d736c5e7f01d0b7c2726a924d-play_full_color.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
