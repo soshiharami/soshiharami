@@ -60,7 +60,7 @@
 
 <details>
   <summary>:zap: GitHub Profile Summary Cards</summary>
-  ![GitHubProfileSummaryCards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soshiharami&theme=monokai)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soshiharami&theme=dracula)
 </details>
 <details>
   <summary>:zap: GitHub Trophy</summary>
