@@ -62,6 +62,8 @@
   <summary>:zap: GitHub Profile Summary Cards</summary>
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soshiharami&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soshiharami&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soshiharami&theme=dracula)
 </details>
 <details>
   <summary>:zap: GitHub Trophy</summary>
