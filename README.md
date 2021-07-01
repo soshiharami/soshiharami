@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### [My portfolio](https://soshiharami.xyz)
+### [My portfolio](https://www.soshiharami.com)
 
 ## Languages, Tools and Skills:
 
