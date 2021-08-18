@@ -2,6 +2,10 @@
 
 ### [My portfolio](https://www.soshiharami.com)
 
+### About
+I am a student engineer in Japan.
+I like Scala and functional programming.
+
 ## Languages, Tools and Skills:
 
 ### Editor ✒
