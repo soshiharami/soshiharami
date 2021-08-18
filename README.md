@@ -78,8 +78,7 @@ I like Scala and functional programming.
 <details>
     <summary>:zap: Waka Time </summary>
 
-    ![Waka Time](https://wakatime.com/share/@soshi_harami/df061a91-08b2-4007-8963-8d2011104701.svg)
-  
+  ![WakaTime](https://wakatime.com/share/@soshi_harami/8d2584a9-8922-4a88-86ac-b06db8d4d756.svg)
 </details>
 <!--
 **soshiharami/soshiharami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
