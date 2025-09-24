@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm そうしくん</h1>
-<h3 align="center">I am a student engineer in Japan.<br/> I like Scala and functional programming.</h3>
+<h3 align="center">I am a engineer in Japan.<br/> I like Scala and functional programming.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
